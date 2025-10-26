@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Business Tracker",
+  "description": "A comprehensive dashboard to track sales, applications, and expenses for DITO and eAccess Travel businesses. Features include CRUD operations for managing data and a summary dashboard for quick insights.",
+  "requestFramePermissions": []
+}
